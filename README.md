@@ -30,7 +30,7 @@ Let’s test who’s got the real frontend muscle 💪🔥
 
 ## 📸 Preview
 
-![Website Preview]()
+![Website Preview](Screenshot 2025-06-14 160733.png)
 
 
 ## 📂 Folder Structure
