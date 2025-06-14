@@ -30,7 +30,8 @@ Let’s test who’s got the real frontend muscle 💪🔥
 
 ## 📸 Preview
 
-*(Add a screenshot or GIF of your website here)*
+![Website Preview]()
+
 
 ## 📂 Folder Structure
 
